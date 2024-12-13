@@ -1,0 +1,79 @@
+# My Personal Progress Tracker
+
+## Data Structures and Algorithms
+
+- [ ] Introduction to Programming
+  - - [ ] Types of languages
+  - - [ ] Memory management
+- [ ] Flow of the program
+  - - [ ] Flowcharts
+  - - [ ] Pseudocode
+- [ ] Introduction to Java
+  - - [ ] Introduction
+  - - [ ] How Java works
+  - - [ ] Setup Installation
+  - - [ ] Data types
+  - - [ ] Variables
+  - - [ ] Operators
+  - - [ ] Input and Output Statements
+  - - [ ] Control Statements
+    - - [ ] Conditional Statements
+        - - - [ ] if 
+        - - - [ ] if else
+        - - - [ ] Switch
+    - - [ ] Looping
+        - - - [ ] for
+        - - - [ ] while
+        - - - [ ] do while
+- [ ] Functions
+  - - [ ] Introduction
+  - - [ ] Scoping in Java
+  - - [ ] Overloading
+  - - [ ] Overriding
+  - - [ ] Shadowing
+  - - [ ] Variable Length Arguments
+- [ ] Pattern Problems
+    - - [ ] Star patterns
+    - - [ ] Number patterns
+    - - [ ] String patterns
+- [ ] Arrays
+  - - [ ] Introduction
+  - - [ ] Memory management
+  - - [ ] Input and Output
+  - - [ ] ArrayList Introduction
+  - - [ ] Sorting
+    - - [ ] Insertion Sort
+    - - [ ] Selection Sort
+    - - [ ] Bubble Sort
+    - - [ ] Cyclic Sort
+  - - [ ] 2D Arrays
+    - - [ ] Introduction
+    - - [ ] Traversal
+  - [ ] Searching
+    - - [ ] Linear Search
+    - - [ ] Binary Search
+- [ ] Strings
+  - [ ] Introduction
+  - [ ] How Strings work
+  - [ ] Comparison of methods
+  - [ ] Operations in Strings
+  - [ ] StringBuilder in java
+- [ ] Maths for DSA
+  - - [ ] Introduction
+  - - [ ] Complete Bitwise Operators
+  - - [ ] Prime numbers
+  - - [ ] HCF / LCM
+  - - [ ] Sieve of Eratosthenes
+  - - [ ] Newton's Square Root Method
+  - - [ ] Number Theory
+  - - [ ] Euclidean algorithm
+- [ ] Space and Time Complexity Analysis
+  - - [ ] Introduction
+  - - [ ] Comparion of various cases
+  - - [ ] Solving Linear Recurrence Relations
+  - - [ ] Solving Divide and Conquer Recurrence Relations
+  - - [ ] Big-O, Big-Omega, Big-Theta Notations
+  - - [ ] Get equation of any relation easily - best and easiest approach
+  - - [ ] Space Complexity
+  - - [ ] Memory Allocation of various languages
+  - - [ ] NP Completeness and Hardness
