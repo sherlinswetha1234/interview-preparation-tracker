@@ -31,10 +31,13 @@
 
 
 01. [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-02. [ ] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
-03. [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-04. [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-05. [ ] [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+02. [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+03. [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+04. [ ] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+05. [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+06. [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+07. [ ] [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+
 
 ### Do It After Recursion
 
