@@ -9,21 +9,21 @@
   - - [ ] Flowcharts
   - - [ ] Pseudocode
 - [ ] Introduction to Java
-  - - [ ] Introduction
-  - - [ ] How Java works
-  - - [ ] Setup Installation
-  - - [ ] Data types
-  - - [ ] Variables
-  - - [ ] Operators
-  - - [ ] Input and Output Statements
-  - - [ ] Control Statements
-    - - [ ] Conditional Statements
-        - - - [ ] if 
-        - - - [ ] if else
-        - - - [ ] Switch
+  - - [X] Introduction
+  - - [X] How Java works
+  - - [X] Setup Installation
+  - - [X] Data types
+  - - [X] Variables
+  - - [X] Operators
+  - - [X] Input and Output Statements
+  - - [X] Control Statements
+    - - [X] Conditional Statements
+        - - - [X] if 
+        - - - [X] if else
+        - - - [X] Switch
     - - [ ] Looping
-        - - - [ ] for
-        - - - [ ] while
+        - - - [X] for
+        - - - [X] while
         - - - [ ] do while
 - [ ] Functions
   - - [ ] Introduction
@@ -33,8 +33,8 @@
   - - [ ] Shadowing
   - - [ ] Variable Length Arguments
 - [ ] Pattern Problems
-    - - [ ] Star patterns
-    - - [ ] Number patterns
+    - - [X] Star patterns
+    - - [X] Number patterns
     - - [ ] String patterns
 - [ ] Arrays
   - - [ ] Introduction
@@ -51,13 +51,13 @@
     - - [ ] Traversal
   - [ ] Searching
     - - [ ] Linear Search
-    - - [ ] Binary Search
+    - - [X] Binary Search
 - [ ] Strings
   - [ ] Introduction
-  - [ ] How Strings work
+  - [X] How Strings work
   - [ ] Comparison of methods
   - [ ] Operations in Strings
-  - [ ] StringBuilder in java
+  - [X] StringBuilder in java
 - [ ] Maths for DSA
   - - [ ] Introduction
   - - [ ] Complete Bitwise Operators
